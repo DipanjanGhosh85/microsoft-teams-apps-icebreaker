@@ -166,7 +166,7 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>If you've got the inclination, set something up. See, meeting people *is* easy!. This application is going to be down in next months so please use Get-Connected App</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
